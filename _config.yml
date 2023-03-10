@@ -19,7 +19,7 @@ locale                   : "en-US"
 title                    : "KM"
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
-name                     : "Kyoungmin's blog"
+name                     : "KM's blog"
 description              : "Welcome to my site!"
 url                      : "https://dkyo04.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
