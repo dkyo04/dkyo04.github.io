@@ -14,7 +14,7 @@ title: "Regular Expression"
 |/[A-Z]/|[]안 범위를 설정|do you know **H**im?|
 |/[^A-Z]/|[]안 문자 제외한 패턴|I **know**|
 |/colou?r/|?앞에 문자가 있거나 없어도 됨|**color** or **colour**|
-|*|앞의 문자 0개 이상|/a*/->**aaa** or **aaaa**|
+|\*|앞의 문자 0개 이상|/a\*/->**aaa** or **aaaa**|
 |+|앞의 문자 1개 이상|a+/->**a** or **aaaa**|
 |RE|설명|예시|
 
