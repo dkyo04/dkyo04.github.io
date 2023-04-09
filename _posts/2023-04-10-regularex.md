@@ -7,6 +7,7 @@ title: "Regular Expression"
 특정한 규칙을 가진 문자열의 집합을 표현하는 데 사용하는 형식 언어이다.  
 
 # 정규표현식의 종류  
+
 |RE|설명|예시|
 |---|---|---|
 |/spring/|'spring' 패턴을 찾는다|I love **spring**|
@@ -16,7 +17,7 @@ title: "Regular Expression"
 |/colou?r/|?앞에 문자가 있거나 없어도 됨|**color** or **colour**|
 |\*|앞의 문자 0개 이상|/a\*/->**aaa** or **aaaa**|
 |+|앞의 문자 1개 이상|a+/->**a** or **aaaa**|
-|RE|설명|예시|
+|RE|설명|예시|  
 
 ## Sigmoid 함수  
 
