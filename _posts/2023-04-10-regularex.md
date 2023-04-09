@@ -1,6 +1,7 @@
 ---
 layout: single
 title: "Regular Expression"
+excerpt: "발췌부분 설정하면 이 글이 들어가고, 설정하지 않는다면 글의 첫 문단이 들어가게됨"
 ---
 
 # 정규표현식(Regular Expression)이란?  
